@@ -13,8 +13,8 @@
   <a href="https://codechef.com/" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://chess.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=white" />
   </a>
 </p>
 
@@ -26,16 +26,16 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Yeswanth Raj </b></em>, a Software Developer and Computer Science enthusiast. I enjoy learning new technologies, developing full-stack applications, and problem solving. Currently focused on building scalable software, backend systems, and exploring AI/ML architectures.
+  Hello There! <em><b> I'm Yeswanth Raj </b></em>, a Software & Game Developer. I enjoy learning new technologies, developing interactive games, and building software solutions. Currently focused on game development, modern graphics & mechanics, and exploring intelligent systems.
 </p>
 
 <br/>
 
 <p align="center">
-   <img src="./imgs/img3.png" width="15"/>   <em><b> Engineering & Computer Science Enthusiast </b></em> <br/>
-   <img src="./imgs/img4.png" width="15"/>   <em><b> Building Full-Stack Web & AI Projects </b></em><br/>
-   <img src="./imgs/img2.png" width="15"/>   <em><b> Passionate about Problem Solving & Algorithms </b></em><br/>
-   <img src="./imgs/img1.png" width="15"/>   <em><b> Tech Explorer & Chess Enthusiast </b></em><br/>
+   <img src="./imgs/img3.png" width="15"/>   <em><b> Software & Indie Game Developer </b></em> <br/>
+   <img src="./imgs/img4.png" width="15"/>   <em><b> Building Games & Full-Stack Projects </b></em><br/>
+   <img src="./imgs/img2.png" width="15"/>   <em><b> Passionate about Game Mechanics, Physics & Algorithms </b></em><br/>
+   <img src="./imgs/img1.png" width="15"/>   <em><b> Creative Coder & Tech Enthusiast </b></em><br/>
 </p>
 
 <br/>
@@ -43,15 +43,21 @@
 <h2 align="center"> <img src="./imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
