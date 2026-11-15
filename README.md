@@ -1,6 +1,11 @@
-<img src="./githubanner.JPG"/>
+<div align="center">
 
-<p align="center">
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=220&section=header&text=Welcome%20to%20Yeswanth's%20Github&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=%3C/%3E&descFontSize=20&descAlignY=62" width="100%" />
+
+  <br/><br/>
+
+  <!-- Social Badges -->
   <a href="https://linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -16,7 +21,8 @@
   <a href="https://itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=white" />
   </a>
-</p>
+
+</div>
 
 <br>
 
