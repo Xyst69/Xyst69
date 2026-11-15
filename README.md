@@ -1,4 +1,4 @@
-<img src="githubanner.JPG"/>
+<img src="./githubanner.JPG"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/" target="_blank">
@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me </em></h2>
+<h2 align="center"> <img src="./imgs/title1.png" width="25"/> <em>About me </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -32,15 +32,15 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Engineering & Computer Science Enthusiast </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Building Full-Stack Web & AI Projects </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Passionate about Problem Solving & Algorithms </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Tech Explorer & Chess Enthusiast </b></em><br/>
+   <img src="./imgs/img3.png" width="15"/>   <em><b> Engineering & Computer Science Enthusiast </b></em> <br/>
+   <img src="./imgs/img4.png" width="15"/>   <em><b> Building Full-Stack Web & AI Projects </b></em><br/>
+   <img src="./imgs/img2.png" width="15"/>   <em><b> Passionate about Problem Solving & Algorithms </b></em><br/>
+   <img src="./imgs/img1.png" width="15"/>   <em><b> Tech Explorer & Chess Enthusiast </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="./imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="./imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align="center"> 
 
