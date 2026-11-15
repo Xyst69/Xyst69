@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&height=220&section=header&text=Welcome%20to%20Yeswanth's%20Github&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=%3C/%3E&descFontSize=20&descAlignY=62" width="100%" />
+  <img src="./banner.png" width="100%" />
 
   <br/><br/>
 
