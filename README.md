@@ -77,9 +77,9 @@
 
 <div align="center"> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyst69&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Xyst69&theme=dark&background=000000&border_color=30363d&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Xyst69&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=30363d&card_width=350)  ![](https://streak-stats.demolab.com/?user=Xyst69&theme=dark&background=000000&border=30363d&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyst69&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&hide_border=false&border_color=30363d" width="100%"/>
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Xyst69&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&hide_border=false&border_color=30363d" width="100%"/>
 
 </div>
 <br/>
