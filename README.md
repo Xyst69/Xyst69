@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./githubanner.JPG" width="100%" />
+  <img src="./header.jpg" width="100%" />
 
   <br/><br/>
 
